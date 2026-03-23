@@ -66,7 +66,7 @@ Reusable and well-organized packages
 🚀 How to Run the Project
 
 Clone this repository:
-Shellgit clone https://github.com/Samiha374/SSIS-prepare.gitShow more lines
+Shellgit clone https://github.com/Samiha374/SSIS
 
 Open the solution in Visual Studio with SSDT installed
 Configure connection managers:
